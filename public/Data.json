@@ -1,0 +1,115 @@
+
+
+
+
+[
+    {
+      "id": 1,
+      "title": "Used Clothing Drive",
+      "image": "https://i.postimg.cc/DzXP2X05/Clothing.png",
+      "category": "Clothing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vestibulum ante quis eros suscipit, eu ullamcorper libero malesuada. Proin fringilla nunc sed dolor lobortis ultricies.",
+      "price": 19.99,
+      "color": "blue"
+    },
+    {
+      "id": 2,
+      "title": "Good Education",
+      "image": "https://i.postimg.cc/y8w0r8jR/Education.png",
+      "category": "Education",
+      "description": "Vestibulum eget odio arcu. Nullam malesuada a turpis a iaculis. Maecenas vel velit at velit euismod interdum.",
+      "price": 29.99,
+      "color": "pink"
+    },
+    {
+      "id": 3,
+      "title": "Better Food For Everyone",
+      "image": "https://i.postimg.cc/3NSvj8Wd/Food.png",
+      "category": "Food",
+      "description": "Fusce vitae urna ac magna lobortis tincidunt. Integer malesuada orci ac nulla convallis, vel tincidunt mi scelerisque.",
+      "price": 24.99,
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "title": "Clean Water for Children",
+      "image": "https://i.postimg.cc/fL5tZzcB/Health.png",
+      "category": "Health",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "price": 14.99,
+      "color": "blue"
+    },
+    {
+      "id": 5,
+      "title": "Clean Water For Children",
+      "image": "https://i.postimg.cc/WbxDsfZL/Rectangle-4284.png",
+      "category": "Health",
+      "description": "Donec nec feugiat lorem. Sed sed mauris nec eros luctus tincidunt. Ut tempus libero id lectus bibendum, nec pellentesque mi pretium.",
+      "price": 34.99,
+      "color": "pink"
+    },
+    {
+      "id": 6,
+      "title": "Used Clothing Drive",
+      "image": "https://i.postimg.cc/15FmrR82/Rectangle-4287.png",
+      "category": "Clothing",
+      "description": "Vestibulum condimentum ligula vitae fermentum. Duis vestibulum orci ac ante tincidunt, a posuere ante tristique.",
+      "price": 39.99,
+      "color": "green"
+    },
+    {
+      "id": 7,
+      "title": "Good Education",
+      "image": "https://i.postimg.cc/D0XT65wL/Rectangle-4287-1.png",
+      "category": "Education",
+      "description": "Sed vitae erat quis ex dictum fringilla. Integer luctus odio ut tortor pretium convallis.",
+      "price": 21.99,
+      "color": "blue"
+    },
+    {
+      "id": 8,
+      "title": "Good Education",
+      "image": "https://i.postimg.cc/D0XT65wL/Rectangle-4287-1.png",
+      "category": "Education",
+      "description": "Phasellus sit amet risus vehicula, condimentum velit non, tempor eros. In eget ante a ante suscipit varius.",
+      "price": 19.99,
+      "color": "pink"
+    },
+    {
+      "id": 9,
+      "title": "Better Food for Everyone",
+      "image": "https://i.postimg.cc/7LthQswW/Rectangle-4287-2.png",
+      "category": "Food",
+      "description": "Integer non tellus eu lacus ultrices tempus. Sed auctor velit at lacus vestibulum vestibulum.",
+      "price": 29.99,
+      "color": "green"
+    },
+    {
+      "id": 10,
+      "title": "Good Education",
+      "image": "https://i.postimg.cc/dtc1XTcw/Rectangle-4288.png",
+      "category": "Education",
+      "description": "Curabitur malesuada magna eu metus commodo, et euismod dolor tempus. Vivamus nec libero vel risus luctus rutrum.",
+      "price": 24.99,
+      "color": "blue"
+    },
+    {
+      "id": 11,
+      "title": "Better Food For Everyone",
+      "image": "https://i.postimg.cc/7LthQswW/Rectangle-4287-2.png",
+      "category": "Food",
+      "description": "Morbi vel felis a nunc faucibus convallis. Nam sollicitudin nisi nec risus faucibus, in pharetra nisi bibendum.",
+      "price": 14.99,
+      "color": "pink"
+    },
+    {
+      "id": 12,
+      "title": "Used Clothing Drive",
+      "image": "https://i.postimg.cc/15FmrR82/Rectangle-4287.png",
+      "category": "Clothing",
+      "description": "Praesent tristique urna a commodo fermentum. Quisque nec velit vel nunc dignissim fermentum.",
+      "price": 44.99,
+      "color": "green"
+    }
+  ]
+  
